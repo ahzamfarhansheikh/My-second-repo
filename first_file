@@ -1,9 +1,15 @@
+// This master file contain my name rollno, Fsc, 1st semester, and second semester subjects
 cout<<"Ahzam Farhan"
 cout<<"2023-BT-SE-04";
 
+FSC subjects
+Math
+Physics
+English
+Chemistry
+Urdu
 
-
-1st semester branch
+1st semester subjects
 Teaching of Holy Quran
 Applied Physics
 Programming Fundamentals
@@ -18,11 +24,4 @@ OOPS C++
 Probablity and Statistics
 Discrete Structure
 Ideology and Constitution of Pakistan
-
-FSC subjects
-Math
-Physics
-English
-Chemistry
-Urdu
 
